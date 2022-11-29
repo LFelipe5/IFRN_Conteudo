@@ -1,0 +1,15 @@
+C:\Users\cabon\OneDrive\Documentos\c#\Lista_Encadeada\bin\Debug\net6.0\Lista_Encadeada.exe
+C:\Users\cabon\OneDrive\Documentos\c#\Lista_Encadeada\bin\Debug\net6.0\Lista_Encadeada.deps.json
+C:\Users\cabon\OneDrive\Documentos\c#\Lista_Encadeada\bin\Debug\net6.0\Lista_Encadeada.runtimeconfig.json
+C:\Users\cabon\OneDrive\Documentos\c#\Lista_Encadeada\bin\Debug\net6.0\Lista_Encadeada.dll
+C:\Users\cabon\OneDrive\Documentos\c#\Lista_Encadeada\bin\Debug\net6.0\Lista_Encadeada.pdb
+C:\Users\cabon\OneDrive\Documentos\c#\Lista_Encadeada\obj\Debug\net6.0\Lista_Encadeada.csproj.AssemblyReference.cache
+C:\Users\cabon\OneDrive\Documentos\c#\Lista_Encadeada\obj\Debug\net6.0\Lista_Encadeada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cabon\OneDrive\Documentos\c#\Lista_Encadeada\obj\Debug\net6.0\Lista_Encadeada.AssemblyInfoInputs.cache
+C:\Users\cabon\OneDrive\Documentos\c#\Lista_Encadeada\obj\Debug\net6.0\Lista_Encadeada.AssemblyInfo.cs
+C:\Users\cabon\OneDrive\Documentos\c#\Lista_Encadeada\obj\Debug\net6.0\Lista_Encadeada.csproj.CoreCompileInputs.cache
+C:\Users\cabon\OneDrive\Documentos\c#\Lista_Encadeada\obj\Debug\net6.0\Lista_Encadeada.dll
+C:\Users\cabon\OneDrive\Documentos\c#\Lista_Encadeada\obj\Debug\net6.0\refint\Lista_Encadeada.dll
+C:\Users\cabon\OneDrive\Documentos\c#\Lista_Encadeada\obj\Debug\net6.0\Lista_Encadeada.pdb
+C:\Users\cabon\OneDrive\Documentos\c#\Lista_Encadeada\obj\Debug\net6.0\Lista_Encadeada.genruntimeconfig.cache
+C:\Users\cabon\OneDrive\Documentos\c#\Lista_Encadeada\obj\Debug\net6.0\ref\Lista_Encadeada.dll
