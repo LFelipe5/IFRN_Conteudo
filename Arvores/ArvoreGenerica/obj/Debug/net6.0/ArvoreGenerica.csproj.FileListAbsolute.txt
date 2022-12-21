@@ -1,0 +1,15 @@
+C:\Users\Luiz\Desktop\EDL\ArvoreGenerica\bin\Debug\net6.0\ArvoreGenerica.exe
+C:\Users\Luiz\Desktop\EDL\ArvoreGenerica\bin\Debug\net6.0\ArvoreGenerica.deps.json
+C:\Users\Luiz\Desktop\EDL\ArvoreGenerica\bin\Debug\net6.0\ArvoreGenerica.runtimeconfig.json
+C:\Users\Luiz\Desktop\EDL\ArvoreGenerica\bin\Debug\net6.0\ArvoreGenerica.dll
+C:\Users\Luiz\Desktop\EDL\ArvoreGenerica\bin\Debug\net6.0\ArvoreGenerica.pdb
+C:\Users\Luiz\Desktop\EDL\ArvoreGenerica\obj\Debug\net6.0\ArvoreGenerica.csproj.AssemblyReference.cache
+C:\Users\Luiz\Desktop\EDL\ArvoreGenerica\obj\Debug\net6.0\ArvoreGenerica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz\Desktop\EDL\ArvoreGenerica\obj\Debug\net6.0\ArvoreGenerica.AssemblyInfoInputs.cache
+C:\Users\Luiz\Desktop\EDL\ArvoreGenerica\obj\Debug\net6.0\ArvoreGenerica.AssemblyInfo.cs
+C:\Users\Luiz\Desktop\EDL\ArvoreGenerica\obj\Debug\net6.0\ArvoreGenerica.csproj.CoreCompileInputs.cache
+C:\Users\Luiz\Desktop\EDL\ArvoreGenerica\obj\Debug\net6.0\ArvoreGenerica.dll
+C:\Users\Luiz\Desktop\EDL\ArvoreGenerica\obj\Debug\net6.0\refint\ArvoreGenerica.dll
+C:\Users\Luiz\Desktop\EDL\ArvoreGenerica\obj\Debug\net6.0\ArvoreGenerica.pdb
+C:\Users\Luiz\Desktop\EDL\ArvoreGenerica\obj\Debug\net6.0\ArvoreGenerica.genruntimeconfig.cache
+C:\Users\Luiz\Desktop\EDL\ArvoreGenerica\obj\Debug\net6.0\ref\ArvoreGenerica.dll
